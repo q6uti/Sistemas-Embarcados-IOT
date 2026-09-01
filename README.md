@@ -3,7 +3,7 @@
 - **Foco:** Sistemas Embarcados e Internet das Coisas (IoT)
 - **Professor:** [Cristiano](https://github.com/ProfessorCristiano)
 
-Este repositório reúne os exercícios e projetos práticos com Arduino/C++ realizados ao longo do semestre.
+Este repositório reúne os exercícios e projetos práticos com Arduino realizados ao longo do semestre.
 
 > *Ferramentas e linguagens utilizada nas atividades:*
 
