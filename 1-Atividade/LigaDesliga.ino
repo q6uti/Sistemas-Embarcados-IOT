@@ -26,5 +26,5 @@ void loop()
     digitalWrite(13, LOW);  // Desliga o LED do pino 13
   }
   
-  delay(10); // Pequena pausa para estabilizar a leitura
+  delay(10);
 }
