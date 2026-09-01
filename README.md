@@ -1,7 +1,7 @@
 ## Repositório com as atividades desenvolvidas
 
 - **Foco:** Sistemas Embarcados e Internet das Coisas (IoT)
-- **Professor:** [Cristiano](https://github.com/ProfessorCristiano)
+- **Professor:** [Cristiano Teixeira](https://github.com/ProfessorCristiano)
 
 Este repositório reúne os exercícios e projetos práticos com Arduino realizados ao longo do semestre.
 
